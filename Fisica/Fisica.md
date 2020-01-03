@@ -15,16 +15,16 @@ Facoltà di Fisica (Laurea triennale):
     Complementi di analisi matematica (6 Cfu)
     Fisica generale II (12 Cfu)
     Un corso tra i seguenti: (6 Cfu)
-    Algoritmi e strutture dati
-    Laboratorio di programmazione
-    Programmazione ad oggetti
-    Tecniche e strumenti di analisi dei dati
+      Algoritmi e strutture dati
+      Laboratorio di programmazione
+      Programmazione ad oggetti
+      Tecniche e strumenti di analisi dei dati
     Laboratorio di elettromagnetismo (6 Cfu)
     Meccanica analitica (6 Cfu)
     Meccanica razionale (6 Cfu)
     Ulteriore attività di base fra: (6 Cfu)
-    Fisica dell'atmosfera
-    Relatività
+      Fisica dell'atmosfera
+      Relatività
     Corso a scelta* (6 Cfu)
     
   Corsi terzo anno:
@@ -86,7 +86,14 @@ Facoltà di Fisica (Laurea triennale):
     
   Sbocchi professionali:
     
+    Diversi ambiti tra cui:  informatica, elettronica, ottica, meccanica, ambiente
+    Insegnamento
     Ricerca in ambito accademico
     Ricerca e sviluppo in industria 4.0
-    Insegnamento
-    https://offertaformativa.unicatt.it/cdl-Curriculum_in_Fisica.pdf
+    Modellizzazione di processi fisici e applicazioni industriali
+    Finanza quantitativa
+    
+  (https://offertaformativa.unicatt.it/cdl-Curriculum_in_Fisica.pdf)
+
+Università degli Studi di Milano-Bicocca
+
